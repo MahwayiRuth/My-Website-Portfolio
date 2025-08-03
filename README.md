@@ -17,9 +17,8 @@ This site features:
 
 ---
 
-## 🚀 Live Portfolio
-
-👉 [Visit My Portfolio](https://MahwayiRuth.github.io/Portfolio/)
+👉 ## Live Portfolio Website  
+👉 [Visit here](https://MahwayiRuth.github.io/My-Website-Portfolio/)
 
 ---
 
